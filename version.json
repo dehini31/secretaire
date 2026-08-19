@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "apkUrl": "https://github.com/dehini31/secretaire/releases/download/v1.5/app-debug.apk",
-  "notes": "Bouton de partage + page de telechargement publique"
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apkUrl": "https://github.com/dehini31/secretaire/releases/download/v1.6/app-debug.apk",
+  "notes": "Dossiers de projet + equipe depuis les contacts"
 }
