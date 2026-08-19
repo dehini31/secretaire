@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apkUrl": "https://github.com/dehini31/secretaire/releases/download/v1.6/app-debug.apk",
-  "notes": "Dossiers de projet + equipe depuis les contacts"
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apkUrl": "https://github.com/dehini31/secretaire/releases/download/v1.7/app-debug.apk",
+  "notes": "Nouveau design Indigo clair : interface epuree, minimaliste et aeree"
 }
